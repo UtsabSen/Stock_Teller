@@ -1,0 +1,50 @@
+NETWORK		Technology	No cellular connectivity
+
+LAUNCH		Announced	2015, October
+		Status		Available. Released 2015, December
+
+BODY		Dimensions	242 x 179 x 7 mm (9.53 x 7.05 x 0.28 in)
+		Weight		517 g (1.14 lb)
+		SIM		No
+
+DISPLAY		Type		LTPS IPS LCD capacitive touchscreen, 16M colors
+		Size		10.2 inches, 313.8 cm2 (~72.4% screen-to-body ratio)
+		Resolution	2560 x 1800 pixels (~308 ppi density)
+		Multitouch	Yes
+
+PLATFORM	OS		Android 6.0.1 (Marshmallow), upgradable to Android 8.0 (Oreo)
+		Chipset		Nvidia Tegra X1
+		CPU		Quad-core 1.9 GHz
+		GPU		Nvidia Maxwell
+
+MEMORY		Card slot	No
+		Internal	32/64 GB, 3 GB RAM
+
+CAMERA		Primary		8 MP, f/2.4
+		Features	Yes
+		Video		Yes
+		Secondary	2 MP
+
+SOUND		Alert types	Vibration; MP3, WAV ringtones
+		Loudspeaker	Yes, with stereo speakers
+		3.5mm jack	Yes
+			 	- Active noise cancellation with dedicated mic
+
+COMMS		WLAN		Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, hotspot
+		Bluetooth	4.1, A2DP
+		GPS		Yes
+		Radio		No
+		USB		3.0, Type-C 1.0 reversible connector
+
+FEATURES	Sensors		Accelerometer, gyro, proximity, compass
+		Messaging	Email, Push Mail, IM
+		Browser		HTML5
+		Java		No
+			 	- MP4/H.264 player
+				- MP3/WAV/eAAC+/Flac player
+				- Photo/video editor
+				- Document viewer
+
+BATTERY	 			Non-removable Li-Po 9240 mAh battery (34.2 Wh)
+
+MISC		Colors		Silver Aluminum

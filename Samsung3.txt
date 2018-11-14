@@ -1,0 +1,75 @@
+NETWORK		Technology	GSM / HSPA / LTE
+
+LAUNCH		Announced	2017, March
+		Status		Available. Released 2017, April
+
+BODY		Dimensions	159.5 x 73.4 x 8.1 mm (6.28 x 2.89 x 0.32 in)
+		Weight		173 g (6.10 oz)
+		Build		Front/back glass (Gorilla Glass 5) & aluminum frame
+		SIM		Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)
+			 	- Samsung Pay (Visa, MasterCard certified)
+				- IP68 certified - dust/water proof over 1.5 meter and 30 minutes
+
+DISPLAY		Type		Super AMOLED capacitive touchscreen, 16M colors
+		Size		6.2 inches, 98.3 cm2 (~84.0% screen-to-body ratio)
+		Resolution	1440 x 2960 pixels, 18.5:9 ratio (~529 ppi density)
+		Multitouch	Yes
+		Protection	Corning Gorilla Glass 5
+			 	- 3D Touch (home button only)
+				- Always-on display
+
+PLATFORM	OS		Android 7.0 (Nougat)
+		Chipset		Exynos 8895 Octa - EMEA
+				Qualcomm MSM8998 Snapdragon 835 - USA & China
+		CPU		Octa-core (4x2.3 GHz & 4x1.7 GHz) - EMEA
+				Octa-core (4x2.35 GHz Kryo & 4x1.9 GHz Kryo) - USA & China
+		GPU		Mali-G71 MP20 - EMEA
+				Adreno 540 - USA & China
+
+MEMORY		Card slot	microSD, up to 256 GB (uses SIM 2 slot) - dual SIM model only
+		Internal	128 GB, 6 GB RAM or 64 GB, 4 GB RAM
+		CAMERA		Primary	12 MP, f/1.7, 26mm, phase detection autofocus, OIS, LED flash, check quality
+		Features	1/2.5" sensor size, 1.4 µm pixel size, geo-tagging, simultaneous 4K video and 9MP image recording, touch focus, face/smile detection, Auto HDR, panorama
+		Video		2160p@30fps, 1080p@60fps, HDR, dual-video rec., check quality
+		Secondary	8 MP, f/1.7, autofocus, 1440p@30fps, dual video call, Auto HDR
+
+SOUND		Alert types	Vibration; MP3, WAV ringtones
+		Loudspeaker	Yes
+		3.5mm jack	Yes
+			 	- 32-bit/384kHz audio
+				- Active noise cancellation with dedicated mic
+
+COMMS		WLAN		Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot
+		Bluetooth	5.0, A2DP, LE, aptX
+		GPS		Yes, with A-GPS, GLONASS, BDS, GALILEO
+		NFC		Yes
+		Radio		No
+		USB		3.1, Type-C 1.0 reversible connector
+
+FEATURES	Sensors		Iris scanner, fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer, heart rate, SpO2
+		Messaging	SMS(threaded view), MMS, Email, Push Mail, IM
+		Browser		HTML5
+		Java		No
+			 	- Samsung DeX (desktop experience support)
+				- Fast battery charging (Quick Charge 2.0)
+				- Qi/PMA wireless charging (market dependent)
+				- ANT+ support
+				- Bixby natural language commands and dictation
+				- MP4/DivX/XviD/H.265 player
+				- MP3/WAV/eAAC+/FLAC player
+				- Photo/video editor
+				- Document editor
+
+BATTERY	 			Non-removable Li-Ion 3500 mAh battery
+
+MISC		Colors		Midnight Black, Orchid Gray, Arctic Silver, Coral Blue, Maple Gold, Rose Pink
+		SAR		0.67 W/kg (head)     0.97 W/kg (body)    
+		SAR EU		0.27 W/kg (head)     1.00 W/kg (body)    
+
+TESTS		Performance	Basemark OS II: 3401 / Basemark OS II 2.0: 3298
+				Basemark X: 43862
+		Display		Contrast ratio: Infinite (nominal), 4.658(sunlight)
+		Camera		Photo / Video
+		Loudspeaker	Voice 68dB / Noise 69dB / Ring 71dB
+		Audio quality	Noise -92.2dB / Crosstalk -93.3dB
+		Battery life	Endurance rating 88h

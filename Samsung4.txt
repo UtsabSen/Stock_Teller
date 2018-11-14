@@ -1,0 +1,79 @@
+NETWORK		Technology	GSM / HSPA / LTE
+
+LAUNCH		Announced	2016, February
+		Status		Available. Released 2016, March
+
+BODY		Dimensions	150.9 x 72.6 x 7.7 mm (5.94 x 2.86 x 0.30 in)
+		Weight		157 g (5.54 oz)
+		Build		Front/back glass (Gorilla Glass 4) & aluminum frame
+		SIM		Single SIM (Nano-SIM) - G935F, G935W8
+				Hybrid Dual SIM (Nano-SIM, dual stand-by) - G935FD
+			 	- Samsung Pay (Visa, MasterCard certified)
+				- IP68 certified - dust/water proof over 1.5 meter and 30 minutes
+
+DISPLAY		Type		Super AMOLED capacitive touchscreen, 16M colors
+		Size		5.5 inches, 83.4 cm2 (~76.1% screen-to-body ratio)
+		Resolution	1440 x 2560 pixels, 16:9 ratio (~534 ppi density)
+		Multitouch	Yes
+		Protection	Corning Gorilla Glass 4
+			 	- Always-on display
+				- TouchWiz UI
+				- Curved edge screen
+
+PLATFORM	OS		Android 6.0 (Marshmallow), upgradable to 7.0 (Nougat)
+		Chipset		Qualcomm MSM8996 Snapdragon 820 - G9350
+				Exynos 8890 Octa - G935FD, G935F, G935W8
+		CPU		Quad-core (2x2.15 GHz Kryo & 2x1.6 GHz Kryo) - G9350
+				Octa-core (4x2.3 GHz Mongoose & 4x1.6 GHz Cortex-A53) - G935FD, G935F, G935W8
+		GPU		Adreno 530 - G9350
+				Mali-T880 MP12 - G935FD, G935F, G935W8
+
+MEMORY		Card slot	microSD, up to 256 GB (uses SIM 2 slot) - dual SIM model only
+		Internal	32/64/128 GB, 4 GB RAM
+		CAMERA		Primary	12 MP, f/1.7, 26mm, phase detection autofocus, OIS, LED flash, check quality
+		Features	1/2.5" sensor size, 1.4 µm pixel size, geo-tagging, simultaneous 4K video and 9MP image recording, touch focus, face/smile detection, Auto HDR, panorama
+		Video		2160p@30fps, 1080p@60fps, 720p@240fps, HDR, dual-video rec., check quality
+		Secondary	5 MP, 1/4.1" sensor size, 1.34 µm pixel size, f/1.7, 22mm, dual video call, Auto HDR
+
+SOUND		Alert types	Vibration; MP3, WAV ringtones
+		Loudspeaker	Yes
+		3.5mm jack	Yes
+			 	- 24-bit/192kHz audio
+				- Active noise cancellation with dedicated mic
+
+COMMS		WLAN		Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot
+		Bluetooth	4.2, A2DP, LE, aptX
+		GPS		Yes, with A-GPS, GLONASS, BDS
+		NFC		Yes
+		Radio		No
+		USB		microUSB 2.0, USB Host
+
+FEATURES	Sensors		Fingerprint (front-mounted), accelerometer, gyro, proximity, compass, barometer, heart rate, SpO2
+		Messaging	SMS(threaded view), MMS, Email, Push Mail, IM
+		Browser		HTML5
+		Java		No
+			 	- Fast battery charging (Quick Charge 2.0)
+				- Qi/PMA wireless charging (market dependent)
+				- ANT+ support
+				- S-Voice natural language commands and dictation
+				- OneDrive (115 GB cloud storage)
+				- MP4/DivX/XviD/WMV/H.264 player
+				- MP3/WAV/WMA/eAAC+/FLAC player
+				- Photo/video editor
+				- Document editor
+
+BATTERY	 			Non-removable Li-Ion 3600 mAh battery
+		Talk time	Up to 27 h (3G)
+		Music play	Up to 74 h
+
+MISC		Colors		Black, White, Gold, Silver, Pink Gold, Black Pearl, Coral Blue
+		SAR		1.17 W/kg (head)     1.59 W/kg (body)    
+		SAR EU		0.26 W/kg (head)     0.51 W/kg (body)    
+
+TESTS		Performance	Basemark OS II: 2107 / Basemark OS II 2.0: 2050
+				Basemark X: 28480
+		Display		Contrast ratio: Infinite (nominal), 4.439 (sunlight)
+		Camera		Photo / Video
+		Loudspeaker	Voice 70dB / Noise 69dB / Ring 71dB
+		Audio quality	Noise -92.5dB / Crosstalk -92.2dB
+		Battery life	Endurance rating 92h

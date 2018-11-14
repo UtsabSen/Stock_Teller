@@ -1,0 +1,66 @@
+NETWORK		Technology	GSM / CDMA / HSPA / EVDO / LTE
+
+LAUNCH		Announced	2017, October
+		Status		Available. Released 2017, October
+
+BODY		Dimensions	145.7 x 69.7 x 7.8 mm (5.74 x 2.74 x 0.31 in)
+		Weight		143 g (5.04 oz)
+		SIM		Nano-SIM card & eSIM
+ 				- IP67 certified - dust and water resistant
+				- Water resistant up to 1 meter and 30 minutes
+
+DISPLAY		Type		AMOLED capacitive touchscreen, 16M colors
+		Size		5.0 inches, 68.9 cm2 (~67.9% screen-to-body ratio)
+		Resolution	1080 x 1920 pixels, 16:9 ratio (~441 ppi density)
+		Multitouch	Yes
+		Protection	Corning Gorilla Glass 5
+			 	- Always-on display
+				- 95% DCI-P3 coverage
+
+PLATFORM	OS		Android 8.0
+		Chipset		Qualcomm MSM8998 Snapdragon 835
+		CPU		Octa-core (4x2.35 GHz Kryo & 4x1.9 GHz Kryo)
+		GPU		Adreno 540
+
+MEMORY		Card slot	No
+		Internal	64/128 GB, 4 GB RAM
+
+CAMERA		Primary		12.2 MP, f/1.8, OIS, phase detection & laser autofocus, dual-LED flash, check quality
+		Features	1/2.6" sensor size, 1.4 µm pixel size, geo-tagging, touch focus, face detection, HDR, panorama
+		Video		2160p@30fps, 1080p@30/60/120fps, 720p@240fps, check quality
+		Secondary	8 MP, f/2.4, 1/3.2" sensor size, 1.4 µm pixel size, 1080p
+
+SOUND		Alert types	Vibration; MP3, WAV ringtones
+		Loudspeaker	Yes, with stereo speakers
+		3.5mm jack	No
+			 	- Active noise cancellation with dedicated mic
+				- Type-C to 3.5 mm headphone jack adapter
+
+COMMS		WLAN		Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot
+		Bluetooth	5.0, A2DP, LE, aptX HD
+		GPS		Yes, with A-GPS, GLONASS, BDS, GALILEO
+		NFC		Yes
+		Radio		No
+		USB		3.1, Type-C 1.0 reversible connector (PowerDelivery 2.0)
+
+FEATURES	Sensors		Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer
+		Messaging	SMS(threaded view), MMS, Email, Push Mail, IM
+		Browser		HTML5
+		Java		No
+			 	- Fast battery charging
+				- MP4/H.264 player
+				- MP3/WAV/eAAC+ player
+				- Photo/video editor
+				- Document editor
+
+BATTERY	 			Non-removable Li-Ion 2700 mAh battery
+
+MISC		Colors		Kinda Blue, Just Black, Clearly White
+
+TESTS		Performance	Basemark OS II: 3387 / Basemark OS II 2.0: 4131
+				Basemark X: 38794
+		Display		Contrast ratio: Infinite (nominal), 4.023 (sunlight)
+		Camera		Photo / Video
+		Loudspeaker	Voice 70dB / Noise 77dB / Ring 81dB
+		Audio quality	Noise -93.3dB / Crosstalk -66.2dB
+		Battery life	Endurance rating 75h

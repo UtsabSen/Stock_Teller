@@ -1,0 +1,6 @@
+Total Products: 5
+1. Samsung Galaxy Note 8		Rs. 67,900
+2. Samsung Galaxy E7			Rs. 16,700
+3. Samsung Galaxy S8 Plus 		Rs. 70,000
+4. Samsung Galaxy S7 Edge		Rs. 43,900
+5. Samsung Galaxy A8			Rs. 37,999

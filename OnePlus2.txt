@@ -1,0 +1,63 @@
+NETWORK		Technology	GSM / HSPA / EVDO / LTE
+
+LAUNCH		Announced	2016, November
+		Status		Available. Released 2016, November
+
+BODY		Dimensions	152.7 x 74.7 x 7.4 mm (6.01 x 2.94 x 0.29 in)
+		Weight		158 g (5.57 oz)
+		SIM		Dual SIM (Nano-SIM, dual stand-by)
+
+DISPLAY		Type		Optic AMOLED capacitive touchscreen, 16M colors
+		Size		5.5 inches, 83.4 cm2 (~73.1% screen-to-body ratio)
+		Resolution	1080 x 1920 pixels, 16:9 ratio (~401 ppi density)
+		Multitouch	Yes
+		Protection	Corning Gorilla Glass 4
+			 	- Oxygen OS 4.1.5
+
+PLATFORM	OS		Android 6.0.1 (Marshmallow), upgradable to 7.1.1 (Nougat)
+		Chipset		Qualcomm MSM8996 Snapdragon 821
+		CPU		Quad-core (2x2.35 GHz Kryo & 2x1.6 GHz Kryo)
+		GPU		Adreno 530
+
+MEMORY		Card slot	No
+		Internal	64/128 GB, 6 GB RAM
+
+CAMERA		Primary		16 MP, f/2.0, phase detection autofocus, OIS, LED flash, check quality
+		Features	1/2.8" sensor size, 1.12 µm pixel size, geo-tagging, touch focus, face detection, panorama, HDR
+		Video		2160p@30fps, 720p@120fps, Auto HDR, check quality
+		Secondary	16 MP, f/2.0, 1.0 µm pixel size, 1080p
+
+SOUND		Alert types	Vibration; MP3, WAV ringtones
+		Loudspeaker	Yes
+		3.5mm jack	Yes
+			 	- Active noise cancellation with dedicated mic
+
+COMMS		WLAN		Wi-Fi 802.11 a/b/g/n/ac, Wi-Fi Direct, DLNA, hotspot
+		Bluetooth	4.2, A2DP, LE
+		GPS		Yes, with A-GPS, GLONASS, BDS
+		NFC		Yes
+		Radio		No
+		USB		2.0, Type-C 1.0 reversible connector
+
+FEATURES	Sensors		Fingerprint (front-mounted), accelerometer, gyro, proximity, compass
+		Messaging	SMS (threaded view), MMS, Email, IM, Push Email
+		Browser		HTML5
+		Java		No
+			 	- Fast battery charging (Dash Charge) 
+				- DivX/Xvid/MP4/H.265 player
+				- MP3/eAAC+/WMA/WAV/FLAC player
+				- Document viewer
+				- Photo/video editor
+
+BATTERY	 			Non-removable Li-Ion 3400 mAh battery
+
+MISC		Colors		Gunmetal, Soft Gold, Midnight Black
+		SAR		0.99 W/kg (head)     0.65 W/kg (body)    
+
+TESTS		Performance	Basemark OS II: 3328 / Basemark OS II 2.0: 2678
+				Basemark X: 36958
+		Display		Contrast ratio: Infinite (nominal), 4.232 (sunlight)
+		Camera		Photo / Video
+		Loudspeaker	Voice 61dB / Noise 69dB / Ring 78dB
+		Audio quality	Noise-94.3dB / Crosstalk -93.4dB
+		Battery life	Endurance rating 83h

@@ -1,0 +1,62 @@
+NETWORK		Technology	GSM / HSPA / LTE
+
+LAUNCH		Announced	2015, July
+		Status		Available. Released 2015, August
+
+BODY		Dimensions	151.8 x 74.9 x 9.9 mm (5.98 x 2.95 x 0.39 in)
+		Weight		175 g (6.17 oz)
+		SIM		Dual SIM (Nano-SIM, dual stand-by)
+
+DISPLAY		Type		LTPS IPS LCD capacitive touchscreen, 16M colors
+		Size		5.5 inches, 83.4 cm2 (~73.3% screen-to-body ratio)
+		Resolution	1080 x 1920 pixels, 16:9 ratio (~401 ppi density)
+		Multitouch	Yes
+		Protection	Corning Gorilla Glass 3
+			 	- Oxygen 3.5.6 UI
+
+PLATFORM	OS		Android 5.1 (Lollipop), upgradable to 6.0.1 (Marshmallow)
+		Chipset		Qualcomm MSM8994 Snapdragon 810
+		CPU		Octa-core (4x1.56 GHz Cortex-A53 & 4x1.82 GHz Cortex-A57)
+		GPU		Adreno 430
+
+MEMORY		Card slot	No
+		Internal	16 GB, 3 GB RAM
+				64 GB, 4 GB RAM
+
+CAMERA		Primary		13 MP, f/2.0, OIS, laser autofocus, dual-LED flash, check quality
+		Features	1/2.6" sensor size, 1.3 µm pixel size, geo-tagging, touch focus, face detection, panorama, HDR
+		Video		2160p@30fps, 720p@120fps, check quality
+		Secondary	5 MP, f/2.4, 1080p@30fps
+
+SOUND		Alert types	Vibration; MP3, WAV ringtones
+		Loudspeaker	Yes
+		3.5mm jack	Yes
+			 	- Active noise cancellation with dedicated mic
+
+COMMS		WLAN		Wi-Fi 802.11 a/b/g/n/ac, Wi-Fi Direct, DLNA, hotspot
+		Bluetooth	4.1, A2DP
+		GPS		Yes, with A-GPS, GLONASS
+		Radio		No
+		USB		2.0, Type-C 1.0 reversible connector
+
+FEATURES	Sensors		Fingerprint (front-mounted), accelerometer, gyro, proximity, compass
+		Messaging	SMS (threaded view), MMS, Email, IM, Push Email
+		Browser		HTML5
+		Java		No
+			 	- DivX/Xvid/MP4/H.265 player
+				- MP3/eAAC+/WMA/WAV/FLAC player
+				- Document viewer
+				- Photo/video editor
+
+BATTERY	 			Non-removable Li-Po 3300 mAh battery
+
+MISC		Colors		Sandstone Black
+		SAR EU		0.43 W/kg (head)     0.20 W/kg (body)    
+
+TESTS		Performance	Basemark OS II: 1942 / Basemark OS II 2.0: 1622
+				Basemark X: 21937
+		Display		Contrast ratio: 1187 (nominal), 2.165 (sunlight)
+		Camera		Photo / Video
+		Loudspeaker	Voice 75dB / Noise 73dB / Ring 80dB
+		Audio quality	Noise -94.2dB / Crosstalk -94.3dB
+		Battery life	Endurance rating 61h

@@ -1,0 +1,65 @@
+NETWORK		Technology	GSM / HSPA / LTE
+
+LAUNCH		Announced	2014, April
+		Status		Available. Released 2014, June
+
+BODY		Dimensions	152.9 x 75.9 x 8.9 mm (6.02 x 2.99 x 0.35 in)
+		Weight		162 g (5.71 oz)
+		SIM		Micro-SIM
+
+DISPLAY		Type		LTPS IPS LCD capacitive touchscreen, 16M colors
+		Size		5.5 inches, 83.4 cm2 (~71.9% screen-to-body ratio)
+		Resolution	1080 x 1920 pixels, 16:9 ratio (~401 ppi density)
+		Multitouch	Yes, up to 10 fingers
+		Protection	Corning Gorilla Glass 3
+			 	- CyanogenMod 13
+				- Oxygen 2.1.4
+
+PLATFORM	OS		Android 4.4.2 (KitKat), upgradable to 6.0.1 (Marshmallow)
+		Chipset		Qualcomm MSM8974AC Snapdragon 801
+		CPU		Quad-core 2.5 GHz Krait 400
+		GPU		Adreno 330
+
+MEMORY		Card slot	No
+		Internal	16/64 GB, 3 GB RAM
+
+CAMERA		Primary		13 MP, f/2.0, autofocus, dual-LED flash, check quality
+		Features	1/3" sensor size, 1.12 µm pixel size, geo-tagging, touch focus, face detection, panorama, HDR
+		Video		2160p@30fps, 2160p(DCI)@24fps, 1080p@60fps, 720p@120fps, HDR, stereo sound rec., check quality
+		Secondary	5 MP, f/2.0, 1080p@30fps
+
+SOUND		Alert types	Vibration; MP3, WAV ringtones
+		Loudspeaker	Yes, dual mono speakers
+		3.5mm jack	Yes
+			 	- Active noise cancellation with dedicated mic
+
+COMMS		WLAN		Wi-Fi 802.11 a/b/g/n/ac, Wi-Fi Direct, DLNA, hotspot
+		Bluetooth	4.1, A2DP
+		GPS		Yes, with A-GPS, GLONASS
+		NFC		Yes
+		Radio		No
+		USB		microUSB 2.0, USB Host
+
+FEATURES	Sensors		Accelerometer, gyro, proximity, compass
+		Messaging	SMS (threaded view), MMS, Email, IM, Push Email
+		Browser		HTML5
+		Java		No
+			 	- ANT+ support
+				- MP4/H.264/WMV player
+				- MP3/eAAC+/WMA/WAV/FLAC player
+				- Document viewer
+				- Photo viewer/editor
+				- Voice memo/dial/commands
+
+BATTERY	 			Non-removable Li-Po 3100 mAh battery
+
+MISC		Colors		Silk White, Sandstone Black
+		SAR		0.62 W/kg (head)     0.75 W/kg (body)    
+
+TESTS		Performance	Basemark OS II: 1196 / Basemark OS II 2.0: 1230
+				Basemark X: 13129
+		Display		Contrast ratio: 799 (nominal), 1.961 (sunlight)
+		Camera		Photo / Video
+		Loudspeaker	Voice 74dB / Noise 73dB / Ring 80dB
+		Audio quality	Noise -94.1dB / Crosstalk -94.3dB
+		Battery life	Endurance rating 66h

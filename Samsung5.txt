@@ -1,0 +1,63 @@
+NETWORK		Technology	GSM / HSPA / LTE
+
+LAUNCH		Announced	2015, July
+		Status		Available. Released 2015, August
+
+BODY		Dimensions	158 x 76.8 x 5.9 mm (6.22 x 3.02 x 0.23 in)
+		Weight		151 g (5.33 oz)
+		SIM		Nano-SIM
+
+DISPLAY		Type		Super AMOLED capacitive touchscreen, 16M colors
+		Size		5.7 inches, 89.6 cm2 (~73.8% screen-to-body ratio)
+		Resolution	1080 x 1920 pixels, 16:9 ratio (~386 ppi density)
+		Multitouch	Yes
+		Protection	Corning Gorilla Glass 4
+
+PLATFORM	OS		Android 5.1.1 (Lollipop), upgradable to 6.0 (Marshmallow)
+		Chipset		Qualcomm MSM8939 Snapdragon 615
+		CPU		Octa-core (4x1.8 GHz Cortex-A53 & 4x1.3 GHz Cortex-A53)
+		GPU		Adreno 405
+
+MEMORY		Card slot	microSD, up to 256 GB (dedicated slot)
+		Internal	32 GB, 2 GB RAM
+
+CAMERA		Primary		16 MP, f/1.9, 31mm, autofocus, LED flash, check quality
+		Features	Geo-tagging, touch focus, face detection, panorama, HDR
+		Video		1080p@30fps, check quality
+		Secondary	5 MP, f/1.9, 23mm, 1080p
+
+SOUND		Alert types	Vibration; MP3, WAV ringtones
+		Loudspeaker	Yes
+		3.5mm jack	Yes
+			 	- Active noise cancellation with dedicated mic
+
+COMMS		WLAN		Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot
+		Bluetooth	4.1, A2DP, EDR, LE
+		GPS		Yes, with A-GPS, GLONASS/ BDS (market dependant)
+		NFC		Yes
+		Radio		FM radio, RDS, recording
+		USB		microUSB 2.0
+
+FEATURES	Sensors		Fingerprint (front-mounted), accelerometer, proximity, compass
+		Messaging	SMS(threaded view), MMS, Email, Push Mail, IM
+		Browser		HTML5
+		Java		No
+			 	- ANT+ support
+				- MP4/WMV/H.264 player
+				- MP3/WAV/WMA/eAAC+/FLAC player
+				- Photo/video editor
+				- Document viewer
+
+BATTERY	 			Non-removable Li-Ion 3050 mAh battery
+		Talk time	Up to 17 h (3G)
+		Music play	Up to 51 h
+
+MISC		Colors		Pearl White, Midnight Black, Champagne Gold
+		SAR EU		0.32 W/kg (head)     0.55 W/kg (body)    
+
+TESTS		Performance	Basemark OS II 2.0: 1089 / Basemark X: 8838
+		Display		Contrast ratio: Infinite (nominal), 3.859 (sunlight)
+		Camera		Photo / Video
+		Loudspeaker	Voice 66dB / Noise 66dB / Ring 75dB
+		Audio quality	Noise -89.3dB / Crosstalk -53.8dB
+		Battery life	Endurance rating 98h
